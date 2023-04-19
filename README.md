@@ -23,6 +23,7 @@ This script requires two credentials:
     - the Administrator role to create BUs and Teams
     - the Policy Administrator role to create Policies
     - and either the Creator or Security Lead role in order to create Applciations. 
+ 
  Read more on [Veracode Users and Permissions in the Doc Center](https://docs.veracode.com/r/c_role_permissions).
 
 Save Veracode API credentials for both the origniation and destination accounts in a credentials file in your home folder `~/.veracode/credentials` like this (example of Commercial to FedRAMP):
