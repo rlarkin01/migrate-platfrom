@@ -2,8 +2,6 @@
 
 A proof of concept usage of the [Veracode APIs](https://docs.veracode.com/r/Veracode_APIs) to move the Application Profiles and Teams in a Commercial Platfrom account into the FedRAMPed Veracode Platform. Written in Python using an amended [veracode-api-py](https://github.com/veracode/veracode-api-py) library.
 
-This script assumes and has only been created to move profiles from a Commercial account into a FedRAMP location. It could concuptually work in reverse with minimal tweaking and testing that has not yet been done. 
-
 ## Setup
 
 This script uses [Python](https://www.python.org). Ensure you have python installed. Clone or download/unzip this repo into a folder and then install the dependencies for this project:
